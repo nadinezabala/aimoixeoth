@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohreivaiwi.508ink.com/sitemap.xml
